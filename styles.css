@@ -24,8 +24,33 @@ body{
     border-color: white;
 }
 
+.servicios{
+    text-align: center;
+    color: white;
+    background-color: #14213d;
+    padding: 30px;
+    font-family: sans-serif;
+    margin: 35px;
+    border-radius: 8px;
+}
 
 .carousel-item{
     max-height: 800px;
-    
+    max-width: 1900px;
+
+}
+
+.texto{
+    color: white;
+    font-family: sans-serif ;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    background-color: #14213d;
+    margin: 35px;
+    border-radius: 8px;
+}
+
+.parrafo{
+    font-size: 20px;
 }
