@@ -1,0 +1,31 @@
+body{
+    background-color: #e5e5e5;
+    color: white;
+}
+
+.navbar-toggler-icon {
+    filter: invert(100%);
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link-active{
+    color: white;
+}
+
+.navbar-toggler{
+    color: white;
+    border-color: white;
+}
+
+
+.carousel-item{
+    max-height: 800px;
+    
+}
